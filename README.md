@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Viktor Trefiman.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning at Eötvös Loránd University, in Hungary.
+- 📫 You can reach me through my personal email.
